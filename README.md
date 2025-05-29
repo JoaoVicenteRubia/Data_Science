@@ -51,8 +51,15 @@ Cada modelo foi avaliado utilizando métricas como:
 
 ## 📎 Arquivos Incluídos
 - `Trabalho_Final.ipynb`: Notebook com todo o pipeline do projeto
-- Visualizações gráficas: EDA, correlações, resultados
+- Apresentacao_Wine_Quality.pptx: Apresentação resumida dos resultados.
 - Dataset utilizado (público da UCI)
+
+---
+
+## 📷 Visualização
+![image](https://github.com/user-attachments/assets/61d6601b-5ed5-4ba3-ad14-601b02c0ba87)
+![image](https://github.com/user-attachments/assets/0fb770bd-cf58-4243-862f-f6a214ee9c45)
+![image](https://github.com/user-attachments/assets/71329c8f-74d6-457b-9ada-807c669a285e)
 
 ---
 
