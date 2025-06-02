@@ -71,3 +71,9 @@ Cada modelo foi avaliado utilizando métricas como:
 ## 👨‍💻 Autor
 João Vicente 
 [LinkedIn](https://www.linkedin.com/in/joaovita)  
+
+---
+
+## 🔗 Página Inicial do Portfólio
+
+🚀 [Acesse o Portfólio Completo no GitHub](https://github.com/JoaoVicenteRubia/Portfolio)
